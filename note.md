@@ -7,3 +7,5 @@ repository(repo): thư mục
 - git add
 
 - git reset
+
+- git commit
