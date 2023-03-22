@@ -1,5 +1,7 @@
 repository(repo): thư mục
 conflict
+local
+remote
 
 
 - git init
@@ -20,6 +22,10 @@ conflict
 
 - git checkout -b (branch name)
 
+- git checkout (branch name)
+
 - git merge (branch name)
 
 - git branch -d (branch name)
+
+- git push
