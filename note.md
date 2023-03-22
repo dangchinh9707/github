@@ -1,4 +1,6 @@
 repository(repo): thư mục
+conflict
+
 
 - git init
 
